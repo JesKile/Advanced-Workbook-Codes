@@ -1,0 +1,36 @@
+<coffeeLearning>
+ <course>
+  
+ <title>
+        Introduction to Coffee
+             </title>
+<description>Learn the basics of coffee, its history, and types of beans.
+               </description>
+ <duration>2 weeks</duration>
+ <instructor>Trevour Barista</instructor>
+ </course>
+
+ <course>
+ <title>Brewing Techniques
+       </title>
+ <description>Explore various brewing methods such as espresso, French press, 
+and pour-over.
+      </description>
+ <duration>3 weeks
+          </duration>
+
+ <instructor>China Brewer
+          </instructor>
+ </course>
+
+ <course>
+       <title>Advanced Coffee Art</title>
+ <description>Master latte art and advanced brewing techniques.
+        </description>
+ <duration>4 weeks
+        </duration>
+ <instructor>Maggy Latte
+         </instructor>
+ 
+ </course>
+</coffeeLearning>
