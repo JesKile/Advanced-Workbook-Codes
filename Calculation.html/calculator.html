@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Original Title</title>
+</head>
+<body>
+<h1 id="header">Welcome!</h1>
+ 
+<input id="num1" type="number" placeholder="Enter first number">
+<input id="num2" type="number" placeholder="Enter second number">
+<button onclick="calculate()">Calculate</button>
+<p id="result"></p>
+<script>
+function calculate() {
+let num1 = parseFloat(document.getElementById("num1").value);
+let num2 = parseFloat(document.getElementById("num2").value);
+let sum = num1 + num2;
+document.getElementById("result").innerHTML = `Result: ${sum}`;
+}
+</script>
+</body>
+</html>
