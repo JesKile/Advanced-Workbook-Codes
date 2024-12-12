@@ -1,0 +1,20 @@
+html
+├── head
+│ ├── meta (charset="UTF-8")
+│ ├── meta (name="viewport", content="width=device-width, initial-scale=1.0")
+│ └── title ("My Coffee Cup")
+└── body
+ 
+├── header
+ │ ├── h1 ("Welcome to My Coffee Page")
+ │ └── a (href="https://www.ncausa.org/About-Coffee", alt="Learn more about 
+coffee", "Learn more about coffee. Enjoy!!!")
+ ├── main
+ │ └── section
+ │ ├── h2 ("About Coffee")
+ │ ├── p ("Coffee is one of the most loved beverages in the world. Here is a 
+picture of a delicious cup of coffee:")
+ │ └── img (src="caffeine-coffee-cup-414630.jpg", alt="A cup of coffee", 
+width="300")
+ └── footer
+ └── p ("© 2024 Coffee Lover's Page")
